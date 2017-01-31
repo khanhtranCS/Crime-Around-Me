@@ -1,0 +1,16 @@
+body {
+	min-width: 300px;
+	height: 30px;
+}
+
+.small-nof {
+	padding: 10px;
+	outline: #00FF00 thick;
+	border-style: solid;
+	margin-bottom: 5px;
+}
+
+.map_button {
+	text-align: center;
+}
+
